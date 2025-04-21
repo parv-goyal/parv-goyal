@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Welcome Banner">
+<img src="https://github.com/parv-goyal/parv-goyal/raw/main/banner.png" alt="Hello World">
 
 <h1 align="center">Hey there 👋🏾, I'm Parv Goyal!</h1>
 
