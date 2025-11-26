@@ -4,7 +4,8 @@
 <h1 align="center">Hey there 👋🏾, I'm Parv Goyal!</h1>
 
 <p align="center">
-  Data Engineering Intern @ Target<br/>
+  Ex Software Engineer @ Harman<br/>
+  Ex Data Engineering Intern @ Target<br/>
   Web Developer • AI & GenAI Explorer • Tech Enthusiast
 </p>
 
